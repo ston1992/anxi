@@ -23,9 +23,9 @@ CRM 用户体验  Growth Hacker
 业务异常监控--如出入库异常、交易异常  
 实时业务构建  
 风控  模型+规则：Hadoop+MQ+Spark streaming+Drools  
-数据回流反馈
-协同过滤
-BI
+数据回流反馈  
+协同过滤  
+BI  
 ### 模型建模
 客户画像  
 供需模型  
